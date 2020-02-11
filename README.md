@@ -4,10 +4,10 @@
 
 ### 1. Wich 
 
-######  2. Trouver “option” dans le manuel
-…
+######  2. Trouver “option” dans le manu
+```
 man wich | grep ‘option’
-…
+```
 
 ###### 3. quitter le manuel
 _Appuyer sur Q_
